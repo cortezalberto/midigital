@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de Tareas",
+        "estado": "progresando"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "AAAA",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "BBBB",
+        "estado": "progresando"
+    },
+    {
+        "titulo": "CCCC",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Titulo",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Titulo 2",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Titulo 2",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Titulo 2",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "jugar al tejo",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "alberto",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "tareaGrabar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "ttt",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "tareaDomingo",
+        "estado": "terminada"
+    }
+]
