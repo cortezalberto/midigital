@@ -18,6 +18,7 @@ let aprobados = estudiantes.filter(function (estudiantes) {
 })
 
 console.log(aprobados);
+console.log('alberto');
 
 /*
 function agregarHttp(url) {
